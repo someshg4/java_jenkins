@@ -17,7 +17,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        count(2);
+        count(10);
         int result = sum(5,10);
 
         System.out.println(result);
